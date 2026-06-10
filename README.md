@@ -2,7 +2,7 @@
 
 I'm finishing an MSc in Financial Engineering & Management at the University of Twente (July 2026) and work in M&A at Moore MKW Corporate Finance. My work sits where applied ML meets finance: interpretable models, honest baselines, and reporting null results when that's what the data says.
 
-I'm moving toward empirical AI economics — how AI adoption is actually changing professional work, and why adoption patterns diverge from theoretical capability.
+I'm moving toward empirical AI economics, how AI adoption is actually changing professional work, and why adoption patterns diverge from theoretical capability.
 
 ## Where to start
 
